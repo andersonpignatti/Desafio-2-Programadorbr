@@ -1,0 +1,12 @@
+.main {
+  margin-top: 25ch;
+  margin-left: 60vh;
+  background-image: url('img/backgorund.png');
+  background-repeat: no-repeat;
+  font-family: 'Inconsolata', monospace;
+  font-size: 25px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
